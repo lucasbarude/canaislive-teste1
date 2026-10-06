@@ -5,7 +5,7 @@
 > Se algo der errado:
 > - Veja se aparece uma mensagem em vermelho no card do canal. Ela mostra o motivo.
 > - Use o botão **Resetar**, no rodapé do popup. Ele reinicia a extensão sem apagar seus canais.
-> - Me avise contando o que aconteceu e, se possível, mande um print.
+> - Abra uma [issue](../../issues) aqui no GitHub contando o que aconteceu e, se possível, mande um print.
 >
 > Os sites monitorados podem mudar a qualquer momento, e isso pode quebrar alguma verificação até sair uma correção.
 

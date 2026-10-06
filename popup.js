@@ -141,7 +141,6 @@ tabs.forEach((tab) => {
         : currentPlatform === "kick"
         ? "nome do canal na Kick"
         : "@canal ou url";
-    openMenuHandle = null;
     render();
   });
 });
