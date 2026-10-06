@@ -1,6 +1,6 @@
 # Canais 🔔
 
-> [!WARNING]
+> [!AVISO]
 > **Fase de testes.** O Canais ainda está em desenvolvimento e sendo testado no uso real. Algumas coisas podem não funcionar sempre como esperado, principalmente a detecção de vídeos novos e a Kick, que às vezes bloqueia as verificações.
 >
 > Se algo der errado:
